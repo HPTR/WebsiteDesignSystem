@@ -1,0 +1,44 @@
+body {
+    
+}
+.section {
+    width: 90%;
+    display: inline-block;
+    padding-bottom: 20px;
+    margin: 0 5%;
+}
+#colors {
+    border: 1px solid black;
+}
+.colorbox {
+    height: 100px;
+    width: 30%;
+    float: left;
+    margin: 10px 0;
+}
+.outerbox {
+    margin-left: 2.5%;
+    margin-right: 2.5%;
+}
+.colorbox p {
+    padding: 20px 0;
+    text-align: center;
+}
+#colorbox1 {
+    background-color: #0F1826;
+}
+#colorbox2 {
+    background-color: #0F1826;
+}
+#colorbox3 {
+    background-color: #0F1826;
+}
+#colorbox4 {
+    background-color: #0F1826;
+}
+#colorbox5 {
+    background-color: #0F1826;
+}
+#colorbox6 {
+    background-color: #0F1826;
+}
