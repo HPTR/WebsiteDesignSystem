@@ -27,6 +27,11 @@ h2 {
     width: 30%;
     float: left;
     margin: 10px 0;
+    text-align: center;
+}
+.colorbox p {
+    padding: 5px 0;
+    font-style: bold;
 }
 .outerbox {
     margin-left: 2.5%;
