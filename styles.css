@@ -55,3 +55,54 @@ h2 {
 #colorbox6 {
     background-color: #7CFFC4;
 }
+#lato {
+    font-family: "Lato", sans-serif;
+}
+#tajawal {
+    font-family: "Tajawal", sans-serif;
+}
+#inconsolata {
+    font-family: "Inconsolata", monospace;
+}
+.regular {
+    font-weight: 400;
+}
+.bold {
+    font-weight: 700;
+}
+.italic {
+    font-style: italic;
+}
+.medium {
+    font-weight: 500;
+}
+.fontshowcase p, h3 {
+    margin-left: 30px;
+}
+.fontshowcase p {
+    line-height: 2em;
+}
+#lato, #tajawal, #inconsolata {
+    float: left;
+    width: 33%;
+}
+#textstyles p {
+    margin-left: 30px;
+}
+#h1 {
+    font-weight: 700;
+    font-size: 40px;
+    font-family: tajawal;
+}
+#h2 {
+    font-weight: 700;
+    font-size: 24px;
+    font-family: tajawal;
+}
+#textstyles {
+    line-height: 2em;
+}
+#h1info, #h2info, #pinfo {
+    float: left;
+    width: 33%;
+}
