@@ -19,10 +19,8 @@ h2 {
     width: 90%;
     display: inline-block;
     padding-bottom: 20px;
-    margin: 0 5%;
-}
-#colors {
-    border: 2px solid darkslategray;
+    margin: 10px 5%;
+    border: 2px solid darkslategray
 }
 .colorbox {
     height: 100px;
