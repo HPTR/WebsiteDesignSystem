@@ -8,7 +8,7 @@ body {
     margin: 0 5%;
 }
 #colors {
-    border: 1px solid black;
+    border: 2px solid darkslategray;
 }
 .colorbox {
     height: 100px;
@@ -25,20 +25,20 @@ body {
     text-align: center;
 }
 #colorbox1 {
-    background-color: #0F1826;
+    background-color: #00487C;
 }
 #colorbox2 {
-    background-color: #0F1826;
+    background-color: #4BB3FD;
 }
 #colorbox3 {
-    background-color: #0F1826;
+    background-color: #3E6680;
 }
 #colorbox4 {
-    background-color: #0F1826;
+    background-color: #0496FF;
 }
 #colorbox5 {
-    background-color: #0F1826;
+    background-color: #027BCE;
 }
 #colorbox6 {
-    background-color: #0F1826;
+    background-color: #7CFFC4;
 }
