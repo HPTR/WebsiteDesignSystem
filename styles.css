@@ -1,0 +1,108 @@
+body {
+    font-family: Lato, sans-serif;
+}
+h1, h2 {
+    margin-left: 20px;
+}
+h1 {
+    font-weight: 700;
+    font-size: 40px;
+    font-family: tajawal;
+}
+h2 {
+    font-weight: 700;
+    font-size: 28px;
+    font-family: tajawal;
+    margin: 3px 20px;
+}
+.section {
+    width: 90%;
+    display: inline-block;
+    padding-bottom: 20px;
+    margin: 10px 5%;
+    border: 2px solid darkslategray
+}
+.colorbox {
+    height: 100px;
+    width: 30%;
+    float: left;
+    margin: 10px 0;
+    text-align: center;
+}
+.colorbox p {
+    padding: 5px 0;
+    font-style: bold;
+}
+.outerbox {
+    margin-left: 2.5%;
+    margin-right: 2.5%;
+}
+#colorbox1 {
+    background-color: #00487C;
+}
+#colorbox2 {
+    background-color: #4BB3FD;
+}
+#colorbox3 {
+    background-color: #3E6680;
+}
+#colorbox4 {
+    background-color: #0496FF;
+}
+#colorbox5 {
+    background-color: #027BCE;
+}
+#colorbox6 {
+    background-color: #7CFFC4;
+}
+#lato {
+    font-family: "Lato", sans-serif;
+}
+#tajawal {
+    font-family: "Tajawal", sans-serif;
+}
+#inconsolata {
+    font-family: "Inconsolata", monospace;
+}
+.regular {
+    font-weight: 400;
+}
+.bold {
+    font-weight: 700;
+}
+.italic {
+    font-style: italic;
+}
+.medium {
+    font-weight: 500;
+}
+.fontshowcase p, h3 {
+    margin-left: 30px;
+}
+.fontshowcase p {
+    line-height: 2em;
+}
+#lato, #tajawal, #inconsolata {
+    float: left;
+    width: 33%;
+}
+#textstyles p {
+    margin-left: 30px;
+}
+#h1 {
+    font-weight: 700;
+    font-size: 40px;
+    font-family: tajawal;
+}
+#h2 {
+    font-weight: 700;
+    font-size: 24px;
+    font-family: tajawal;
+}
+#textstyles {
+    line-height: 2em;
+}
+#h1info, #h2info, #pinfo {
+    float: left;
+    width: 33%;
+}
